@@ -1,4 +1,5 @@
 #include <iostream>
+#include <stdexcept>
 #include "..\header_files\tcp_server.h"
 
 // Welcome to my C++ Winsock TCP Server Tutorial Project!

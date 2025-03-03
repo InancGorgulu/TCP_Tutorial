@@ -1,6 +1,6 @@
 #include "..\header_files\tcp_server.h"
 #include <iostream>
-#include <sstream>
+#include <stdexcept>
 
 // Checks whether the socket is valid.
 bool tcp_server::is_socket_valid(SOCKET& socket)

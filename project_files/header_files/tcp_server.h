@@ -4,7 +4,6 @@
 
 #include <string>
 #include <WS2tcpip.h>
-#include <fstream>
 
 
 // The server-side of the TCP communication is defined as the "tcp_server" class.

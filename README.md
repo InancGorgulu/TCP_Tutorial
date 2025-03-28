@@ -48,4 +48,4 @@ This project is licensed under the **MIT License**.
 
 ## 📬 Contact
 
-For questions or further assistance, feel free to **open an issue** on GitHub or contact the repository maintainer.
+For questions or further assistance, feel free to **open an issue** on GitHub or contact with me.
